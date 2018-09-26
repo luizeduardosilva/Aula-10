@@ -1,2 +1,2 @@
-# Aula-10
-Econometria
+# 10-Previsao
+Criando previsões a partir dos modelos.
